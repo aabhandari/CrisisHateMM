@@ -8,7 +8,7 @@ Text-embedded images are frequently used on social media to convey opinions and 
 
 
 ### Participate in our Shared Task at RANLP 2023 (Proceedings in ACL Anthology) ###
-In order to participate in our shared task that uses the data, please visit our [shared task](https://github.com/therealthapa/case2023_task4).
+In order to participate in our shared task that uses this data, please visit our [shared task](https://github.com/therealthapa/case2023_task4).
 
 ### Datasets ###
 If you find the dataset useful, please cite the paper as follows:
