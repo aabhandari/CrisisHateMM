@@ -11,7 +11,7 @@ Text-embedded images are frequently used on social media to convey opinions and 
 If you find the dataset useful, please cite the paper as follows:
 
 ```bibtex
-@inproceedings{kossack2022perfusion,
+@inproceedings{bhandari2023crisishatemm,
   title={CrisisHateMM: Multimodal Analysis of Directed and Undirected Hate Speech in Text-Embedded Images from Russia-Ukraine Conflict},
   author={Bhandari, Aashish and Shah, Siddhant Bikram and Thapa, Surendrabikram and Naseem, Usman and Nasim, Mehwish},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
