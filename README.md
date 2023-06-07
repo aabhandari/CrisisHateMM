@@ -15,9 +15,10 @@ If you find the dataset useful, please cite the paper as follows:
 
 ```bibtex
 @inproceedings{bhandari2023crisishatemm,
-  title={CrisisHateMM: Multimodal Analysis of Directed and Undirected Hate Speech in Text-Embedded Images from Russia-Ukraine Conflict},
-  author={Bhandari, Aashish and Shah, Siddhant Bikram and Thapa, Surendrabikram and Naseem, Usman and Nasim, Mehwish},
+  title={CrisisHateMM: Multimodal Analysis of Directed and Undirected Hate Speech in Text-Embedded Images From Russia-Ukraine Conflict},
+  author={Bhandari, Aashish and Shah, Siddhant B and Thapa, Surendrabikram and Naseem, Usman and Nasim, Mehwish},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={1993--2002},
   year={2023}
 }
 ```
